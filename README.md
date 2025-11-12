@@ -1,6 +1,6 @@
 ![CI](https://github.com/github-christan/wgu-capstone-credit-default/actions/workflows/ci.yml/badge.svg)
 
-# WGU Capstone — Credit Card Default Risk (Snowflake + dbt + CI + ML)
+#Credit Card Default Risk (Snowflake + dbt + CI + ML)
 
 **Goal.** Estimate the **probability of default next month** for credit-card clients and show a lightweight, production-style pipeline:
 - **Data engineering:** Snowflake (staging → RAW → dbt models → feature view) + **GitHub Actions** CI.
